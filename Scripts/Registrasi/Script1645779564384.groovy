@@ -22,9 +22,9 @@ WebUI.navigateToUrl('https://www.cermati.com/gabung-v2?')
 
 int Number = new Random().nextInt((10000 - 1) + 1) + 100
 
-String Email1 = 'gajah.kumal+' + Number
+String Email1 = 'cermati_test+' + Number
 
-String Email = Email1 + '@gmail.com'
+String Email = Email1 + '@outlook.com'
 
 GlobalVariable.Email = Email
 
